@@ -1,0 +1,80 @@
+body{
+    background-color: aqua;
+}
+ul{
+    display: flex;
+    background-color: blue;
+}
+li{
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+    list-style-type: none;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 2em;
+}
+video{
+    width: 300px;
+    height: 300px;
+    border-radius: 2em;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.aboutusimg img{
+    width: 300px;
+    height: 200px;
+    border-radius: 0em;
+}
+.team img{
+    width: 200px;
+    height: 150px;
+    border-radius: 0px;
+}
+.blogimg img{
+    width: 200px;
+    height: 120px;
+    border-radius: 0em;
+}
+table, th, td{
+    border: 3px solid green;
+}
+.galleryimg img{
+    width: 300px;
+    height: 250px;
+    border-radius: 0px;
+}
+.galleryimg:hover, img:hover{
+    border: 5px solid gold;
+    border-style: dotted;
+}
+.contactimg img{
+    width: 80px;
+    height: 50px;
+    border-radius: 0px;
+}
+.footer-menu li{
+    list-style: none;
+    font-size: 15px;
+}
+.footer-menu a{
+    color: blue;
+    padding: 0.5px;
+}
+.footer{
+    background-color: burlywood;
+}
+.footer-menu li{
+    list-style: none;
+    font-size: 15px;
+}
+.footer-menu a{
+    color: blue;
+    padding: 0.5px;
+}
+.footer{
+    background-color: burlywood;
